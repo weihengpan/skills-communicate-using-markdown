@@ -7,3 +7,6 @@
 var fish: Fish
 fish.youAreWelcome()
 ```
+
+- [x] Dump trash from spaceship
+- [ ] Say goodbye
